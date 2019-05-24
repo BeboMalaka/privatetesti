@@ -1,6 +1,5 @@
-
 {
-
-  "origins": ["https://leesteg.github.io/privatetesti"]
-
+  "origins": [
+    "https://leesteg.github.io"
+  ]
 }
