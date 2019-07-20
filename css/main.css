@@ -224,7 +224,7 @@ img {
   content: " \25BC";
 }
 .navbar-custom .nav .navlinks-children {
-  width: 90%;
+  width: 100%;
   display: none;
   word-break: break-word;
 }
